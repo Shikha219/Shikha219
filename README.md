@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Backend Web development**
 
-- 🌱 I’m currently learning **Backend development,cloud computing,Blockchain development**
+- 🌱 I’m currently learning **Backend development,Cloud computing,Blockchain development**
 
 - 🤝 I’m looking for help with **peer programming in java**
 
