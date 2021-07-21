@@ -28,9 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@shikha-suman94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shikha-suman94" height="30" width="40" /></a>
 <a href="https://twitter.com/shikhas60994465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikhas60994465" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shikha suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikha suman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shikha-suman-861847194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikha suman" height="30" width="40" /></a>
 <a href="https://fb.com/shikha suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shikha suman" height="30" width="40" /></a>
 <a href="https://instagram.com/cristis_celsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristis_celsa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shikhasuman41121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shikhasuman41121" height="30" width="40" /></a>
