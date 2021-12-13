@@ -10,17 +10,17 @@
 <p align="left"> <a href="https://twitter.com/shikhas60994465" target="blank"><img src="https://img.shields.io/twitter/follow/shikhas60994465?logo=twitter&style=for-the-badge" alt="shikhas60994465" /></a> </p>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/2004880/screenshots/8721510/media/9ab6cc281822dcc7a6514c3bc81cc97a.gif">
 
-- 🔭 I’m currently working on **Backend Web development**
+- 🔭 I’m currently working on **Machine Learning Algorithms, MEAN Stack Projects**
 
-- 🌱 I’m currently learning **Backend development,Cloud computing,Blockchain development**
+- 🌱 I’m currently learning **Machine Learning, Python Programming**
 
-- 🤝 I’m looking for help with **peer programming in java**
+- 🤝 I’m looking for help with **ML learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shikha219?tab=repositories](https://github.com/Shikha219?tab=repositories)
 
 - 📝 I regularly write articles on [https://codiyapabyshikha.blogspot.com/](https://codiyapabyshikha.blogspot.com/)
 
-- 💬 Ask me about **node.js**
+- 💬 Ask me about **JAVA Programming**
 
 - 📫 How to reach me **shikhasuman4112001@gmail.com**
 
