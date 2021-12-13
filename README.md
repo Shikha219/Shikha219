@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shikha219?tab=repositories](https://github.com/Shikha219?tab=repositories)
 
-- 📝 I regularly write articles on [https://codiyapabyshikha.blogspot.com/](https://codiyapabyshikha.blogspot.com/)
-
 - 💬 Ask me about **JAVA Programming**
 
 - 📫 How to reach me **shikhasuman4112001@gmail.com**
